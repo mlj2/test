@@ -9,7 +9,7 @@
      "platforms":["x86", "x64"],
      "links":["d3d9.lib", "shlwapi.lib"],
      "link_options":"/NODEFAULTLIB:LIBCMT /LTCG:OFF",
-     "release_dirs":{"out":"$(SolutionDir)bin","intermediate":"$(SolutionDir)out"},
+     "release_dirs":{"bin":"$(SolutionDir)bin","intermediate":"$(SolutionDir)out"},
      "inc_dirs":["$(DXSDK_DIR)Include"],
      "lib_dirs":["$(DXSDK_DIR)Lib\\x86"],
      "defines":["DEBUG", "test_def"],
