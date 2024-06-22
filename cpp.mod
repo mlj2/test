@@ -15,6 +15,9 @@
      "defines":["DEBUG", "test_def"],
      "optimization":"off",
      "characterset":"none",
-     "src":["example.cpp", "testfolder\\test.cpp"]
+     "src":[
+       "example.cpp",
+       "testfolder\\test.cpp"
+     ]
    }
 }
