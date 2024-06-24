@@ -2,7 +2,7 @@
    "name":"ModuleEncrypter",
    "description":"dasdsa",
    "version":"1.0",
-   "def_branch":"master",
+   "branch":"master",
    "authors":[],
    "project": {
      "configurations":["Debug", "Release"],
