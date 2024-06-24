@@ -3,7 +3,7 @@
    "description":"dasdsa",
    "version":"1.0",
    "branch":"master",
-   "authors":[],
+   "authors":[{"username":"mlj2","email":"xxxmlj2xxx@gmail.com"}],
    "project": {
      "configurations":["Debug", "Release"],
      "platforms":["x86", "x64"],
