@@ -6,6 +6,7 @@
    "authors":[{"username":"mlj2","email":"xxxmlj2xxx@gmail.com"}],
    "project": {
      "name":"project5",
+     "location":"src",
      "configurations":["Debug", "Release"],
      "platforms":["x86", "x64"],
      "links":["d3d9.lib", "shlwapi.lib"],
