@@ -19,7 +19,8 @@
      "characterset":"none",
      "src":[
        "example.cpp",
-       "testfolder\\test.cpp"
+       "testfolder\\test.cpp",
+       "testfolder\\examplefolder\\main.cpp"
      ]
    }
 }
